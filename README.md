@@ -1,4 +1,4 @@
 # TEST
 github test
-just test
+just a test
 really
